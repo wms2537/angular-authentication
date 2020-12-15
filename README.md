@@ -1,6 +1,12 @@
-# AngularAuthentication
+# Angular Authentication
+
+This is a sample authentication frontend built with angular and [Ant Design of Angular](https://ng.ant.design).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
+
+## Backend
+
+The backend is based on my [Nodejs Authentication Backend](https://github.com/wms2537/nodejs-jwt-auth).
 
 ## Development server
 
